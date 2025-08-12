@@ -68,7 +68,7 @@ const Hero = () => {
 
 
     return (
-        <>
+        <section>
             <section id="hero" className="noisy">
             <h1 className="title">MOJITO</h1>
 
@@ -105,8 +105,7 @@ const Hero = () => {
                     preload='auto'
                 />
             </div>
-
-        </>
+        </section>
     )
 }
 
